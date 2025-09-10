@@ -33,8 +33,8 @@ Check out some of my work:
 ## 🌐 Connect With Me
 - X: https://x.com/dhruuu_
 - Telegram: https://t.me/@tensorice
-- Instagram: [Add link here]
+- Instagram: https://instagram.com/_dhruuuu__
 
 ---
 
-> “ 'We' are changing the world with technology” – Bill Gates
+> “ We are changing the world with technology” – Bill Gates
