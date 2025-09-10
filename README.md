@@ -11,10 +11,10 @@ It all started with the facebook on the news, and the kid was beyond amused.
 ## 🚀 About Me
 - 🎓 Computer Science student
 - 🛠️ Honest, creative, and someone you can work with.
-- 🖌️ I love sketching, doodling, journaling, and listening to music
+- 🖌️ I do sketching, and doodling(cuz i think it's super cool), journaling , and listening to music
 
 ## 🧑‍💻 Skills & Technologies
-- **Programming Languages:** Python, C++
+- **Programming Languages:** Python, C++, C
 - **Web Development:** React, Express.js
 - **Database:** PostgreSQL
 
