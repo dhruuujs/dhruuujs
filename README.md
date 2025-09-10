@@ -5,6 +5,7 @@
 Use this space to introduce yourself, your journey, and anything you'd love others to know.
 -->
 
+It all started with the facebook on the news, and the kid was beyond amused.
 ---
 
 ## 🚀 About Me
@@ -30,10 +31,10 @@ Check out some of my work:
 ---
 
 ## 🌐 Connect With Me
-- Twitter: [Add link here]
-- Telegram: [Add link here]
+- X: https://x.com/dhruuu_
+- Telegram: https://t.me/@tensorice
 - Instagram: [Add link here]
 
 ---
 
-> “Creativity is intelligence having fun.” – Albert Einstein
+> “ 'We' are changing the world with technology” – Bill Gates
