@@ -13,7 +13,7 @@ It all started with the facebook on the news, and the kid was beyond amused.
 - 🖌️ i do sketching, and doodling(cuz i think it's super cool), journaling , and listening to music
 
 ## 🧑‍💻 Skills & Technologies
-- **Programming Languages:** Python, C++, C
+- **Programming Languages:** C++, Javascript
 - **Web Development:** React, Express.js
 - **Database:** PostgreSQL
 
