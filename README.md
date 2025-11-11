@@ -23,9 +23,10 @@ It all started with the facebook on the news, and the kid was beyond amused.
 ## 📂 Featured Repositories
 Check out some of my work:
 - [Buble](https://github.com/dhruuujs/Buble)
-- [DSABasic](https://github.com/dhruuujs/DSABasic)
+- [Scissor](https://github.com/dhruuujs/Scissor)
+- [Buble](https://github.com/dhruuujs/Buble)
 
-<!-- Add your favorite projects here in the future! -->
+
 
 ---
 
