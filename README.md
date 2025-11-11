@@ -1,4 +1,4 @@
-# 👋 Hi, I'm dhruuujs!
+## 👋 Hi, I'm dhruuujs!
 
 <!--
 [Your future bio goes here!]
