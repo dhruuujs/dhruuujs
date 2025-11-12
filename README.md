@@ -9,7 +9,7 @@ It all started with the facebook on news, and the kid was beyond amused.
 ---
 
 ## 🚀 About Me
-- 🛠️ honest, creative, curious, ambitious.
+- 🛠️ honest, creative, curious,and ambitious.
 - 🖌️ i do sketching, and doodling(cuz i think it's super cool), journaling , read books and a lots of music to help me motivated.
 
 ## 🧑‍💻 Skills & Technologies
