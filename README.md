@@ -1,4 +1,4 @@
-## 👋 Hi, I'm dhruba!
+## 👋 Hi, I'm dhru!
 
 <!--
 [Your future bio goes here!]
@@ -12,7 +12,7 @@ It all started with the facebook on news, and the kid was beyond amused.
 - 🛠️ honest, creative, curious,and ambitious.
 - 🖌️ i do sketching, and doodling(cuz i think it's super cool), journaling , read books and a lots of music to help me motivated.
 
-## 🧑‍💻 Skills & Technologies
+## 🧑‍💻 Works with
 - **Programming Languages:** C++, Javascript, Python
 - **Web Development:** React, Express.js
 - **Database:** PostgreSQL
