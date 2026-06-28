@@ -8,23 +8,23 @@ Use this space to introduce yourself, your journey, and anything you'd love othe
 It all started with the facebook on news, and the kid was beyond amused.
 ---
 
-## 🚀 About Me
-- 🛠️ honest, creative, curious,and ambitious.
+## 🚀 about Me
+- 🛠️ creative, and curious.
 - 🖌️ i do sketching, and doodling(cuz i think it's super cool), journaling , read books and a lots of music to help me motivated.
 
-## 🧑‍💻 Works with
+## 🧑‍💻 works with
 - **Programming Languages:** C++, Javascript, Python
 - **Web Development:** React, Express.js
 - **Database:** PostgreSQL
 
-## ⚡ GitHub Stats
+<!--## ⚡ GitHub Stats-->
 <!-- Optionally add GitHub stats or contribution graph here! -->
 
-## 📂 Featured Repositories
+## 📂 featured Repositories
 Check out some of my work:
-- [Buble - a fullstack social app](https://github.com/dhruuujs/Buble)
+- [Ziquil - a webserver written in C ](https://github.com/dhruuujs/Ziquil)
 - [Scissor - a chrome extension](https://github.com/dhruuujs/Scissor)
-- [Balloon - a weather app](https://github.com/dhruuujs/Balloon)
+- [Balloon - a fullstack social app](https://github.com/dhruuujs/Buble)
 
 
 
