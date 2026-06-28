@@ -5,7 +5,6 @@
 Use this space to introduce yourself, your journey, and anything you'd love others to know.
 -->
 
-It all started with the facebook on news, and the kid was beyond amused.
 ---
 
 ## 🚀 about Me
